@@ -11,12 +11,12 @@ ForegroundColour=131, 148, 150
 BackgroundColour=  0,  43,  54
 CursorColour=    131, 148, 150
 
-Black=             7,  54,  66
-BoldBlack=         0,  43,  54
+Black=             30,  20,  30
+BoldBlack=         0,  0,  20
 Red=             220,  50,  47
-BoldRed=         203,  75,  22
-Green=           133, 153,   0
-BoldGreen=        88, 110, 117
+BoldRed=         255,  0,  0
+Green=           50, 153,   0
+BoldGreen=        0, 180, 0
 Yellow=          181, 137,   0
 BoldYellow=      101, 123, 131
 Blue=             38, 139, 210

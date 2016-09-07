@@ -2,7 +2,7 @@
 ## Due: 9-14-2016
 
 ## Author
-
+Grant Farnsworth
 ## Description
 
 You are to follow the below steps to practice using GIT. This will help prepare you for submitting all of your assignments for this class.
@@ -31,5 +31,6 @@ If you need some help on how to write proper Markdown for the README file, you c
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Outside Resources Used
-
+notepad++
 ## Known Problems, Issues, And/Or Errors in the Program
+None
